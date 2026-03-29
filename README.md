@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gerson Aguiar
 
-💻 Estudante de Sistemas de Informação no CEST  
+🎓 Tenho 20 anos e sou estudante de Sistemas de Informação na CEST  
 📚 Focado em Python, C++ e desenvolvimento web  
 🚀 Em constante evolução, buscando novos desafios na área de tecnologia  
 💡 Apaixonado por transformar conhecimento em soluções inovadoras  
